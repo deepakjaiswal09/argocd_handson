@@ -12,7 +12,7 @@ service:
   nodePort: 30080
 
 deployment:
-  enabled: false 
+  enabled: true
 
   environment: dev
 
